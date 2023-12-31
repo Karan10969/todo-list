@@ -1,0 +1,16 @@
+.delete-icon{
+    fill: black;
+}
+
+.delete-icon:hover{
+  cursor: pointer;
+  fill: red;
+}
+
+.up-icon{
+  fill: black
+}
+
+.up-icon:hover{
+  fill: green
+}
